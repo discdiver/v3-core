@@ -16,7 +16,7 @@ This repository is subject to the Uniswap V3 bug bounty program, per the terms d
 
 ## Local deployment
 
-In order to deploy this code to a local testnet, you should install the npm package
+To deploy this code to a local testnet, you should install the npm package
 `@uniswap/v3-core`
 and import the factory bytecode located at
 `@uniswap/v3-core/artifacts/contracts/UniswapV3Factory.sol/UniswapV3Factory.json`.
